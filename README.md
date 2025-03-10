@@ -12,7 +12,7 @@ FlexZone is a lightweight Python library designed to automate file management ta
 Install the library using `pip`:
 
 ```bash
-pip install flexzone
+pip install git+https://github.com/speedrunblaze/flexzone-lib.git
 ```
 
 ## Usage Example:
