@@ -25,8 +25,3 @@ manager.create_file("example.txt", "This is a sample file.")
 content = manager.read_file("example.txt")
 print(content)
 ```
-
-## Credits:
-- Written by: Seu Nome
-- License: MIT
-    
